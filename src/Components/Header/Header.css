@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'cursive';
+    font-size:20px;
+    background-color: rgb(46, 46, 46);
+    color: white;
+    align-items: center;
+}
+.glyphicon{
+    padding:4px 8px;
+    font-size:25px;
+    cursor: pointer;
+}
+.glyphicon:hover{
+    opacity: .8;
+    background-color: rgba(0, 0, 0, 0.521);
+}
+.glyphicon:active{
+    background-color: rgba(0, 0, 0, 0.726);
+}
+.glyphicon-menu-hamburger{
+    margin-right:5px;
+}

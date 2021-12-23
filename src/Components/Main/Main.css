@@ -1,0 +1,51 @@
+.quadro{
+    background-color: rgba(0, 0, 0, 0.878);
+    color: white;
+    position: relative;
+    height:60px;
+}
+.input{
+    font-size: 20px;
+    position: absolute;
+    top:5px;
+    left: 5px;
+}
+.output{
+    position: absolute;
+    font-size:22px;
+    bottom:2px;
+    right: 2px;
+}
+
+.teclas{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.teclas > div{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.781);
+    border: 2px solid var(--fundo);
+    text-align: center;
+    padding:8px 3px;
+    cursor: pointer;
+}
+.teclas > div:hover{
+    background-color: #999;
+    color: black;
+}
+.teclas > div:active{
+    opacity: .5 !important;
+}
+.teclas > .numero{
+    background-color: rgba(54, 36, 36, 0.918);
+}
+.teclas > .numero:hover{
+    opacity: .9;
+    color: white;
+}
+.teclas > .sinal:hover{
+    background-color: rgb(35, 189, 189);
+}

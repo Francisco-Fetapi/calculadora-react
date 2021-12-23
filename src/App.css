@@ -1,0 +1,14 @@
+:root{
+    --fundo:rgb(22, 22, 22);
+}
+body{
+    background-color:var(--fundo) ;
+    overflow: hidden;
+}
+.App{
+    max-width:400px;
+    margin: 0 auto;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}

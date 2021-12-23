@@ -1,0 +1,32 @@
+.historico__lista{
+    list-style: none;
+    padding: 0;
+}
+.historico__lista li{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #fff3;
+    padding:3px 8px;
+    transition: all .2s ease-in;
+}
+.historico__lista li:hover{
+    border-left: 4px solid #333;
+}
+.historico__lista .glyphicon{
+    font-size: 14px;
+}
+.historico .glyphicon:hover{
+    color: rgba(255, 0, 0, 0.863);
+}
+.historico .glyphicon:active{
+    color: red;
+}
+.historico{
+    position: relative;
+    height: 100%;
+}
+.limpa{
+    position: absolute;
+    bottom: 15px;
+    right:0px;
+}

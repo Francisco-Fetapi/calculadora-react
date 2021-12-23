@@ -1,0 +1,23 @@
+.sobre{
+    height: 100%;
+    position: relative;
+}
+.sobre h3{
+    margin: 0;
+    padding: 4px;
+    text-align: center;
+    border-bottom: 1px solid #fff;
+    font-size: 23px;
+    font-family: cursive;
+}
+.sobre div{
+    position: absolute;
+    bottom:0;
+    left: 5px;
+    width: 100%;
+}
+.sobre div h4{
+    display: flex;
+    padding:0 10px;
+    justify-content: space-between;
+}

@@ -1,0 +1,14 @@
+.lateral{
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.952);
+    height:70vh;
+    width:100%;
+    position: absolute;
+    bottom: 0;
+    z-index: 3;
+    /* transform: translateX(100%); */
+    transition: all .8s ease;
+}
+.lateral.ativo{
+    transform: translateX(0%) !important;
+}
