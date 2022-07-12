@@ -1,4 +1,11 @@
 # Calculadora (React)
+<p align="center">
+<a href="https://github.com/Francisco-Fetapi/calculadora-react/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Francisco-Fetapi/calculadora-react?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/calculadora-react"><img alt="GitHub license" src="https://img.shields.io/badge/Exercise-For%20trainning-orange"></a>
+<a href="https://github.com/Francisco-Fetapi/calculadora-react/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Francisco-Fetapi/calculadora-react?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/calculadora-react/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Francisco-Fetapi/calculadora-react?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/calculadora-react"><img alt="GitHub license" src="https://img.shields.io/github/license/Francisco-Fetapi/calculadora-react?style=plastic"></a>
+</p>
 
 Nos meados de 2021 depois de alguns meses estudando o `Jquery`, finalmente conheci o `React`, uma tecnologia que mudou a maneira como eu **penso** e **desenvolvo** meus projetos até hoje. Depois de semanas estudando o React, achei por bem recriar alguns dos projetos que eu já tinha feito com `Jquery` só que usando o `React` e essa é a razão desse projeto existir.
 
