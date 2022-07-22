@@ -9,7 +9,8 @@
 
 Nos meados de 2021 depois de alguns meses estudando o `Jquery`, finalmente conheci o `React`, uma tecnologia que mudou a maneira como eu **penso** e **desenvolvo** meus projetos até hoje. Depois de semanas estudando o React, achei por bem recriar alguns dos projetos que eu já tinha feito com `Jquery` só que usando o `React` e essa é a razão desse projeto existir.
 
-<img src="./asset2.PNG" />
+![calculadora-react](https://user-images.githubusercontent.com/74926014/180439655-f68712a5-d962-4705-b96d-1435980181f7.gif)
+
 
 Uma solução antiga criada com `Jquery` está em: <a href="https://github.com/Francisco-Fetapi/calculadora-html-css-js">Calculadora</a>
 
